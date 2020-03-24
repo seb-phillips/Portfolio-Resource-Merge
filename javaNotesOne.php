@@ -74,7 +74,7 @@
     <p>The method that is going to be called is decided at runtime by the JVM – Java Virtual Machine</p>
     <p>@Override used and can’t override static methods, only instance methods</p>
     <!-- ADD IMAGE -->
-    <img src="img/overriding_rules.png" alt="overrding rules"><br><br>
+    <img src="img/overriding_rules.png" alt="overrding rules"><br><br>/
     <!-- ADD IMAGE -->
     <img src="img/method_overriding.png" alt="method overrding"><br><br>
 
