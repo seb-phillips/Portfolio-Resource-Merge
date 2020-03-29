@@ -13,10 +13,11 @@
       <a href="android.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Fundamental Notes</a><br>
       <a href="#Databases" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Databases</a><br>
       <a href="calcAndroidPdf.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Calculator</a><br>
-      <a href="#appleAndroidPdf.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Apple RSS feed</a><br>
+      <a href="rssPdf.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Apple RSS feed</a><br>
       <a href="#ytAndroidPdf.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Youtube API</a><br>
       <a href="#flickrAndroidPdf.php.php" style="color:#2F4F4F; font-weight: bold;padding-left: 30px;">Flickr JSON</a><br>
     </div>
   <li><a href="chatbot.php">Chatbots</a></li>
   <li><a href="groovy.php">Groovy</a></li>
+  <li><a href="git.php">Git Basics</a></li>
 </ul>
