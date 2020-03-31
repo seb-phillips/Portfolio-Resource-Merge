@@ -6,7 +6,19 @@
 
 <div style="margin-left:25%;padding:1px 16px;height:1000px;">
   <h1>Github & Git</h1><br>
-  <h3>Basic Commands</h3><br>
+  <h3>Basic Commands</h3>
+  <p><b>Commands</b><br>
+  git init<br>
+  git add .<br>
+  git commit -m "first commit"<br>
+  git branch<br>
+  git remote add origin https://github.com/username/repName.git<br>
+  git remote<br>
+  git remote -v<br>
+  git push -u origin master<br>
+  Login...<br>
+  </p><br>
+  <h3>Further Reading</h3>
   <p>The important command is git remote add origin URL. This command 
       needs to be executed in your local project folder (i.e. the folder 
       that contains the Git Repository you want to push to GitHub):</p>
