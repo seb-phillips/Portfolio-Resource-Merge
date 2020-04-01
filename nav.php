@@ -25,4 +25,8 @@
   <li><a href="git.php">Git Basics</a></li>
   <li><a href="ruby.php">Ruby On Rails</a></li>
   <li><a href="javascriptNotes.php">Javascript</a></li>
+  <li><a href="threejs.php">Three.js</a></li>
+  <div class="subnav-content">
+      <a href="threeexample.php" style="color:#2F4F4F; padding-left: 39px;">Cube Example</a><br>
+      </div>
 </ul>
