@@ -24,4 +24,5 @@
   <li><a href="groovy.php">Groovy</a></li>
   <li><a href="git.php">Git Basics</a></li>
   <li><a href="ruby.php">Ruby On Rails</a></li>
+  <li><a href="javascriptNotes.php">Javascript</a></li>
 </ul>
