@@ -11,7 +11,7 @@
     </head>
     <?php include_once('nav.php'); ?>
 	<body>
-		<script src="js/three.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.js"></script>
 		<script>
 			//Need 3 things: scene, camera & renderer
       var scene = new THREE.Scene();
