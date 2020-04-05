@@ -14,7 +14,7 @@
 <section class="section section-stream">
     <img
         class="play rellax"
-        src="https://i.ibb.co/yS3W4Lk/sideimg2.jpg"
+        src="https://i.ibb.co/ZWtqYqr/sideimg4.png"
         alt=""
         data-rellax-speed="-1" data-rellax-xs-speed="-5"
     />
